@@ -82,7 +82,7 @@ document.getElementById('addStudentForm').addEventListener('submit', function(ev
     event.preventDefault();
     
     const newStudent = {
-        id: document.getElementById('newId').value,
+         id: document.getElementById('newId').value,
         firstName: document.getElementById('newFirstName').value,
         lastName: document.getElementById('newLastName').value,
         dateOfBirth: document.getElementById('newDateOfBirth').value,
