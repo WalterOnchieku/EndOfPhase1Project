@@ -1,0 +1,104 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "First Name": "Walter",
+        "Last Name": "White",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12345",
+        "Date of admission": "15/8/2024"
+      },
+      {
+        "id": 2,
+        "First Name": "Will",
+        "Last Name": "Whitt",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12346",
+        "Date of admission": "16/8/2024"
+      },
+      {
+        "id": 3,
+        "First Name": "bill",
+        "Last Name": "cosby",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12347",
+        "Date of admission": "17/8/2024"
+      },
+      {
+        "id": 4,
+        "First Name": "Vince",
+        "Last Name": "rhames",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12348",
+        "Date of admission": "18/8/2024"
+      },
+      {
+        "id": 5,
+        "First Name": "ben",
+        "Last Name": "affleck",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12349",
+        "Date of admission": "19/8/2024"
+      },
+      {
+        "id": 6,
+        "First Name": "Kevin",
+        "Last Name": "bacon",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      },
+      {
+        "id": 7,
+        "First Name": "Mary",
+        "Last Name": "jane",
+        "Date of birth": "15/8/1990",
+        "Gender": "Female",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      },
+      {
+        "id": 8,
+        "First Name": "Jackie",
+        "Last Name": "Bear",
+        "Date of birth": "15/8/1990",
+        "Gender": "Female",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      },
+      {
+        "id": 9,
+        "First Name": "Betty",
+        "Last Name": "Brown",
+        "Date of birth": "15/8/1990",
+        "Gender": "Female",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      },
+      {
+        "id": 10,
+        "First Name": "Angus",
+        "Last Name": "Green",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      },
+      {
+        "id": 11,
+        "First Name": "Mark",
+        "Last Name": "Zucker",
+        "Date of birth": "15/8/1990",
+        "Gender": "Male",
+        "Admission No": "12350",
+        "Date of admission": "20/8/2024"
+      }
+    ]
+  }
+  
