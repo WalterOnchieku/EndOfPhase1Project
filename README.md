@@ -6,8 +6,11 @@ The purpose of this project is to take user input through the input fields and d
 
 HOW TO USE THE APPLICATION:
 Fill out the fields with the required data then click SUBMIT. The new data will be added at the bottom of the table. to edit details, click the EDIT button and make changes to the entered data. To delete a row, click the DELETE button. A SEARCH BAR is also provided for the user to find a specific entry.
-NB:Use the scroll bars to view any hidden data.
-Also, start json-server to display table data before attempting to enter more data.
+
+NOTE
+*Use the scroll bars to view any hidden data.
+*Also, start json-server to display table data before attempting to enter more data.
+*The edit feature works only on newly entered data.
 
 the files that make it work are: 
 1. register.html - provides the markup for displaying the webpage. the table body, however, is injected into the page by javascript.
