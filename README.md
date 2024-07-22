@@ -13,4 +13,5 @@ the files that make it work are:
 2. style.css - adds visual apeal to the document.
 3. script.js - enables data entered into input fields to be sobmitted to the table, makes the submit, edit and delete button functional , retrieves object from the .json file and populates the table body. 
 4. schoolpic.jpg - adds style to the page background.
+5. studentdata.json - contains objects to initially populate the table
 
