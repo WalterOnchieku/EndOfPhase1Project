@@ -15,3 +15,4 @@ the files that make it work are:
 4. schoolpic.jpg - adds style to the page background.
 5. studentdata.json - contains objects to initially populate the table
 
+to view and test the application, click here: https://rad-starburst-f67197.netlify.app/
